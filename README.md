@@ -1,3 +1,3 @@
 # Inflammation-R
 
-This plots the data for our GitHub play workshop.
+This plots the data for our GitHub play workshop. Yay!
